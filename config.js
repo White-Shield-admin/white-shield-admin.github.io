@@ -1,8 +1,6 @@
-/* Beyaz Kalkan Kuruluşu — site ayarları
-   Bu üç değeri Supabase kurulumundan sonra doldur (KURULUM.md, Adım 3).
-   Boş bırakılırsa site çalışır ama değişiklikler kaydedilmez. */
+/* Beyaz Kalkan Kuruluşu — site ayarları */
 window.SITE_CONFIG = {
-  supabaseUrl: '',      // örn. 'https://abcdefgh.supabase.co'
-  supabaseAnonKey: '',  // Supabase > Project Settings > API > "anon public" anahtarı
-  ownerEmail: ''        // Supabase'de oluşturduğun kullanıcının e-postası
+  supabaseUrl: 'https://jogdrjpqygfrjbfuikdq.supabase.co',
+  supabaseAnonKey: 'sb_publishable_2oBxlTmFMV-FjEiH6EVZIw_KLYwndb4',
+  ownerEmail: 'yabanci662@gmail.com'
 };
